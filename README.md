@@ -1,4 +1,4 @@
-# Retail-Management-Application
+# Retail Management Application
 ## Retail Scheduling and Management Application
 
 ### Summary
